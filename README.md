@@ -1,2 +1,3 @@
 # My.Firstrepo
-This is my first repositories.
+This is my first repository.
+Author:Abhay Gautam
